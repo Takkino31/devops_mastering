@@ -196,5 +196,3 @@ git merge origin/main
 **#Git #DevOps #VersionControl #GitInternals #Rebase #CherryPick**
 
 ---
-
-**PRÊT POUR LE JOUR 7 AVEC LES CONFLITS COMPLEXES ET GIT HOOKS ?** 🚀
