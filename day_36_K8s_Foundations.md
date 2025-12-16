@@ -335,5 +335,3 @@ CONTROL PLANE (décide)
 **📊 Progress: `Jour 36 / 100 ✅`**
 
 **#Kubernetes #K8s #DevOps #CloudNative #Containers #Orchestration #InfrastructureAsCode #TechLearning**
-
-**🎉 RÉUSSITE !** Vous avez franchi une étape majeure : comprendre et utiliser Kubernetes. Prêt pour les déploiements avancés au prochain jour !
