@@ -1,7 +1,5 @@
 # **JOUR 42 : SERVICES AVANCÉS & COMMUNICATION INTER-SERVICES** 🔄
 
-**Durée : 90 minutes**
-
 ## **🎯 CONCEPTS CLÉS APPRIS**
 
 ### **🌐 Le DNS Interne de Kubernetes**
